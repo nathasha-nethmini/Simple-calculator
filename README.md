@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Calculator
 
 A simple web-based calculator built using HTML, CSS, and JavaScript.
@@ -18,3 +19,4 @@ A simple web-based calculator built using HTML, CSS, and JavaScript.
 ## Purpose
 
 This project was created to practice basic JavaScript logic and DOM manipulation.
+=======
